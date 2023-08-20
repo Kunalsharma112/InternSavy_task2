@@ -9,7 +9,7 @@
 <body>
   <link rel="stylesheet" href="selfwebsite.css">
   <header>
-    <h1>Your Name</h1>
+    <h1>Kunal Sharma</h1>
     <p>Web Developer | Passionate Learner</p>
   </header>
   <section id="about">
@@ -31,7 +31,7 @@
     <p>Besides coding, I enjoy hiking, reading, and experimenting with new cooking recipes. I believe that a well-rounded life enhances creativity in all aspects.</p>
   </section>
   <footer>
-    <p>&copy; 2023 Your Name</p>
+    <p>&copy; 2023 Kunal Sharma</p>
   </footer>
 </body>
 </html>
